@@ -1,0 +1,8 @@
+Step Left
+Step Right
+Jump Left
+Swirl your arms to the right
+Jump Right
+Swirl your arms to the left
+
+That is the rainbow dance!
